@@ -28,8 +28,8 @@ export default function Home({ allPostsData }) {
           <a href="https://www.instagram.com/tama_dsgr/">@Instagram</a>
         </p>
         <p>
-          (Learn more about Next.JS on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          Learn more about Next.JS on{" "}
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
         </p>
       </section>
 
